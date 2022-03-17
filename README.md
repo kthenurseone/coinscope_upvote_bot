@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/buYaRRl3yp4" target="_blank"><img src="https://github.com/kthenurseone/coinscope_upvote_bot/video/blob/main/3.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/buYaRRl3yp4" target="_blank"><img src="https://github.com/kthenurseone/coinscope_upvote_bot/blob/main/video/3.png?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
@@ -37,9 +37,9 @@ I will help to install the program.
 
 
 ## Images
-![coinscope_upvote_bot](https://github.com/kthenurseone/coinscope_upvote_bot/video/blob/main/1.png?raw=true)
-![coinscope_upvote_bot](https://github.com/kthenurseone/coinscope_upvote_bot/video/blob/main/2.png?raw=true)
-![coinscope_upvote_bot](https://github.com/kthenurseone/coinscope_upvote_bot/video/blob/main/3.png?raw=true)
+![coinscope_upvote_bot](https://github.com/kthenurseone/coinscope_upvote_bot/blob/main/video/1.png?raw=true)
+![coinscope_upvote_bot](https://github.com/kthenurseone/coinscope_upvote_bot/blob/main/video/2.png?raw=true)
+![coinscope_upvote_bot](https://github.com/kthenurseone/coinscope_upvote_bot/blob/main/video/3.png?raw=true)
 
 
 
